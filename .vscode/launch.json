@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Launch FullstackApplication",
+        "request": "launch",
+        "mainClass": "com.linkedin.fullstack.FullstackApplication",
+        "projectName": "fullstack"
+      },
+      {
+        "type": "java",
+        "name": "Launch ReactAndSpringDataRestApplication",
+        "request": "launch",
+        "mainClass": "com.model.ReactAndSpringDataRestApplication",
+        "projectName": "fullstack"
+      }
+    ]
+  }
